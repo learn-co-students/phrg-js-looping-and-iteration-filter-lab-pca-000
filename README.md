@@ -15,3 +15,4 @@ You'll be writing three functions:
 - [MDN: Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-looping-and-iteration-filter-lab'>Filter Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Filter Lab</p>
