@@ -11,6 +11,10 @@ You'll be writing three functions:
 * `fuzzyMatch` - This function takes an array of `drivers` and a `string` as arguments for querying the array, and returns all drivers whose names begin with the provided letters.
 * `matchName` - This function takes an array of `drivers` and a `string` as arguments. In this function, each element of the `drivers` array is a JavaScript object that has a property of `name`. The function should return each element whose `name` property matches the provided `string` argument.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-looping-and-iteration-filter-lab/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-looping-and-iteration-filter-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - [MDN: Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
